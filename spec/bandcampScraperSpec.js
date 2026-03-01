@@ -68,9 +68,9 @@ const labelsUrls = [
 ]
 
 const trackUrls = [
-  'https://dafnez.bandcamp.com/track/serenade',
+  'https://ivycomb.bandcamp.com/track/infamous',
   'https://xaerarch.bandcamp.com/track/devour-303-absynth-mix',
-  'https://backtick.bandcamp.com/track/approx-start-06-51',
+  'https://splendiferachie.bandcamp.com/track/the-vampire-2',
   'https://ripcordz.bandcamp.com/track/the-beta-58s-leave-me-alone'
 ]
 

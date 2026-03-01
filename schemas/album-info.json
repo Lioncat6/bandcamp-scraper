@@ -43,6 +43,9 @@
     },
     "raw": {
       "type": "object"
+    },
+    "pageData": {
+      "type": "object"
     }
   },
   "required": [ "artist", "title", "url", "tracks", "raw" ]
