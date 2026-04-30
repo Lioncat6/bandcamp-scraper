@@ -1,6 +1,6 @@
 {
   "name": "bandcamp-scraper",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "description": "A scraper for https://bandcamp.com",
   "main": "lib/index.js",
   "scripts": {
@@ -28,7 +28,7 @@
     "json5": "^1.0.2",
     "linez": "^4.1.4",
     "scrape-it": "^6.1.12",
-    "tinyreq": "^3.2.5"
+    "tinyreq": "^3.4.3"
   },
   "directories": {
     "example": "examples"
